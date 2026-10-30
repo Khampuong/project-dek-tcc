@@ -1,0 +1,7 @@
+flask
+waitress
+requests
+python-docx
+pymupdf
+pythainlp
+pywin32; sys_platform == "win32"
